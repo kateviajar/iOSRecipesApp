@@ -5,9 +5,9 @@ This iOS app allows users to search recipes by categories or keywords. The app w
 
 ## App Structures
 It uses navigation controller and tab bar controller for the layout. It consists of 4 scenes.  
-- Welcome Scene (author: Pao-Hua)
+- Welcome Scene (author: Yuriko)
  > To start the app.  
-- Home Scene (author: Yuriko)
+- Home Scene (author: Pao-Hua)
  > It populates 10 random recipes from the API. 
  > Uasers can tap a recipe to view the details.  
 - Browse Scene (author: Pao-Hua)
