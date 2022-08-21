@@ -28,6 +28,7 @@ It uses navigation controller and tab bar controller for the layout. It consists
  ![image](https://user-images.githubusercontent.com/78240130/184463932-e934958a-0144-4f6b-b372-a3d5ebf4a2dc.png)
  
  ## Authors
- Pao-Hua Chien
+ Pao-Hua Chien 
+ 
  Yuriko Uchida
  
